@@ -1,0 +1,4 @@
+baseURL = 'https://YF9873.github.io/'
+locale = 'en-us'
+title = 'Starry Nook'
+theme = "PaperMod"
